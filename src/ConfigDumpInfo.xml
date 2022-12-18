@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.ИнформационныеБазы" id="d3cc7829-ba13-451a-91f3-c0978d62a403" configVersion="5137b273a7e7fd43b3441dd0b5cab2eb00000000">
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.НаименованиеВСпискеБаз" id="1ac0b9e6-955e-40d9-8642-2e59d01d393a"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.СерверПриложений" id="34f76730-2aa7-46dd-a6f0-dbdc9484203b"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.СерверSQL" id="3cca32cd-dec2-403b-9a53-8c9e3890b535"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.SQLPwd" id="41b46887-7d25-4d73-bc48-d758eb845bbc"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.СвояАвторизацияНаСервереSQL" id="5775e32f-b0a7-45b7-b9d7-9da977e50933"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.КонтурБазы" id="6d69912b-2988-47c8-9b32-7df2b8b38947"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.ОпубликованаНаВебСервере" id="8b53a553-a128-4d20-b171-1f17bdb53127"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.SQLDB" id="e8abb7ad-7684-4277-9a92-d84b03d7e16f"/>
+			<Metadata name="Catalog.ИнформационныеБазы.Attribute.SQLUID" id="f684b3a9-8876-478e-b46f-8bb321158ff3"/>
+		</Metadata>
+		<Metadata name="Catalog.ИнформационныеБазы.ManagerModule" id="d3cc7829-ba13-451a-91f3-c0978d62a403.3" configVersion="2d6ec298be846d4dba3169a99f26078f00000000"/>
+		<Metadata name="Catalog.СервераSQL" id="db512280-6d96-4bc7-8e1a-5d4240c8fb98" configVersion="986945b7de3a654bb9d192bb0a4210b900000000">
+			<Metadata name="Catalog.СервераSQL.Attribute.ИмяПользователя" id="61a9dd08-4ae2-426c-914a-ac60b3f5e709"/>
+			<Metadata name="Catalog.СервераSQL.Attribute.Комментарий" id="66d789bb-e928-469c-9ce1-66fff1991333"/>
+			<Metadata name="Catalog.СервераSQL.Attribute.ПарольПользователя" id="cd38017b-efc5-41dc-b3a2-8872001097d8"/>
+		</Metadata>
+		<Metadata name="Catalog.СервераПриложений" id="f37e8d28-1f22-4794-aa29-edce733271b5" configVersion="6b6e240b1ee2fe4a884e49b2ce72d5ec00000000">
+			<Metadata name="Catalog.СервераПриложений.Attribute.Комментарий" id="03b85d74-2580-42da-89fe-3ae0c7db851b"/>
+		</Metadata>
+		<Metadata name="Catalog.СценарииДляИнформационныхБаз" id="21d368ed-1607-49e6-bf18-c2ab7c9aecf4" configVersion="6b4c7eb0f512094486f6b14af95eacb500000000"/>
+		<Metadata name="Catalog.УстановленныеПлатформы1С" id="c79a8d7e-ca94-464e-bc27-5df365829b8b" configVersion="57754d6ee6a52347ba2197521dba583300000000">
+			<Metadata name="Catalog.УстановленныеПлатформы1С.Attribute.Версия" id="2019c806-6e73-4c82-b94d-6f70475e3810"/>
+			<Metadata name="Catalog.УстановленныеПлатформы1С.Attribute.ПолныйПуть" id="b598dcc3-11e7-4783-966c-afbf0cc363c2"/>
+		</Metadata>
+		<Metadata name="Catalog.УстановленныеПлатформы1С.Form.ФормаСписка" id="c824a53c-920c-452e-8ff0-5eb01c97a192" configVersion="5a83d6381be0a945833ec78977504f3700000000"/>
+		<Metadata name="Catalog.УстановленныеПлатформы1С.Form.ФормаСписка.Form" id="c824a53c-920c-452e-8ff0-5eb01c97a192.0" configVersion="aa7449237949a7419e07aa97371488b000000000"/>
+		<Metadata name="Catalog.УстановленныеПлатформы1С.ManagerModule" id="c79a8d7e-ca94-464e-bc27-5df365829b8b.3" configVersion="b75ff1bf1761d845ae40e38ac17fbcac00000000"/>
+		<Metadata name="CommonModule.Запуск" id="911c621e-21db-48e2-9123-85090a7a3dcf" configVersion="23cfa2bb56f6a448a64f67f2c389612900000000"/>
+		<Metadata name="CommonModule.Запуск.Module" id="911c621e-21db-48e2-9123-85090a7a3dcf.0" configVersion="60a974e182796e4d976d4166f5e374ff00000000"/>
+		<Metadata name="CommonModule.Логи" id="4a54a01b-3086-4fbf-87cb-6e1bed8e1ae5" configVersion="ca7ac23f750e084d9cd14946af5edfe300000000"/>
+		<Metadata name="CommonModule.Логи.Module" id="4a54a01b-3086-4fbf-87cb-6e1bed8e1ae5.0" configVersion="9ccae9b443fbde4fac8212a89ef196c200000000"/>
+		<Metadata name="CommonModule.ПараметрыВызовСервера" id="dae75de3-88e3-436e-bb42-79dbb2bba606" configVersion="b159df5eac493d4cad22bd5b21ee64cc00000000"/>
+		<Metadata name="CommonModule.ПараметрыВызовСервера.Module" id="dae75de3-88e3-436e-bb42-79dbb2bba606.0" configVersion="1d7b26c448058d4aa86202f778269b0c00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентСерверЛокализация" id="3455d9d1-df5b-44c4-b693-281489f9d251" configVersion="4a3da9c94af8974786d05acd8c1a0f3400000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентСерверЛокализация.Module" id="3455d9d1-df5b-44c4-b693-281489f9d251.0" configVersion="92d302b533e745429f84a0ffb9c5cea800000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="51f01bf3-9008-462f-8dfc-5771b6ec7c12" configVersion="870d80ebcac9154da1e440585f699dfa00000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="51f01bf3-9008-462f-8dfc-5771b6ec7c12.0" configVersion="a0e8acea78cb3e45833776cec472257900000000"/>
+		<Metadata name="Configuration.V8ServerManagment" id="ede6ba72-92b6-46f7-b144-7017adc6f125" configVersion="d2bb4482aa885c4087b751c0b51b008100000000"/>
+		<Metadata name="Configuration.V8ServerManagment.SessionModule" id="d5f3ff21-6545-4c25-8d94-528aa9b22ebc.7" configVersion="d7b72627f0d6bd4395a9e1d9f17a3bcd00000000"/>
+		<Metadata name="Constant.Платформа1С" id="8120a010-fccf-4b8e-a878-32b075d19d00" configVersion="099d2b38eb3edd498834169fb491a5c300000000"/>
+		<Metadata name="Constant.РежимОтладки" id="c0997b90-aeab-450e-8cf2-d81d51bee49e" configVersion="4d478d13a009314b87bbce86ea78620b00000000"/>
+		<Metadata name="Constant.РежимОтладки.ValueManagerModule" id="c0997b90-aeab-450e-8cf2-d81d51bee49e.0" configVersion="c7a3ce7a22ea5c44a2b6874cdbae1f3400000000"/>
+		<Metadata name="Constant.СерверSQL" id="16c922ad-ac9a-4ab4-b53c-92032159cd26" configVersion="565ceaea62cd314d8e80bf846fbe4ff800000000"/>
+		<Metadata name="Constant.СерверПриложений" id="092379cb-2f74-448e-a683-55e693b9e377" configVersion="750ea57309eeaa40971b29b1658c5b5900000000"/>
+		<Metadata name="Enum.КонтурыИнформационныхБаз" id="7986663b-1032-4691-a5e8-4f4c09ab5839" configVersion="df3a9abc91abd7488bf405c565b371be00000000">
+			<Metadata name="Enum.КонтурыИнформационныхБаз.EnumValue.Пользовательский" id="20a013b5-b0bb-4c88-a609-8f6ba98496c6"/>
+			<Metadata name="Enum.КонтурыИнформационныхБаз.EnumValue.Типовой" id="3c1748cc-746b-4f73-bc84-5daf7c8ba2e3"/>
+			<Metadata name="Enum.КонтурыИнформационныхБаз.EnumValue.Тестовый" id="f7d420d3-18e1-45e1-adbe-7c87412d255f"/>
+			<Metadata name="Enum.КонтурыИнформационныхБаз.EnumValue.Рабочий" id="fe4c9ef2-c8e4-4847-9918-7d5f20a98811"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыЗадач" id="4842dacb-b703-459a-bac8-947f22b1085f" configVersion="b91a8d738035ca419128a95e2c01c40d00000000">
+			<Metadata name="Enum.ТипыЗадач.EnumValue.СнятьИЗагрузитьSqlBackup" id="06325ab6-7bf0-4041-af4e-f7aff3042a92"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.СнятьSqlBackup" id="4c4de161-5df5-444b-b845-a80b5bccae80"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ОткрытьТолстыйКлиент" id="80de4fd7-5e71-46ba-9ead-11ecf15885cb"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ЗагрузитьSqlBackup" id="88ac3562-232e-42c1-8ce0-225deb1054fc"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ОткрытьКонфигуратор" id="8d862859-9ba4-4d45-8e3c-13948285b528"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ЗагрузитьCF" id="992ead74-7870-4578-94e7-385d258910db"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ОткрытьТолстыйКлиентОбычныеФормы" id="a7174e24-7ff8-428e-b5d4-cd35c1e1cc1e"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.СоздатьИнформационнуюБазу" id="cd0caa04-f440-4f4e-b66a-be5c46ce7dba"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ОткрытьТонкийКлиент" id="f5e25a11-2ca7-43c3-bb3a-3d5fb529b822"/>
+			<Metadata name="Enum.ТипыЗадач.EnumValue.ЗагрузитьDT" id="fe76be4c-12ee-474a-b8ed-dca736d46c59"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="ab31a39f-9b9f-478a-a308-83103baee3a4" configVersion="2191a80604dc8948b1faa2c9feb7922d00000000"/>
+		<Metadata name="SessionParameter.Платформа1С" id="60dbc03e-8e56-4c4f-92df-61acebda0a60" configVersion="8a2639af4aa635459daf259ef395116a00000000"/>
+		<Metadata name="SessionParameter.РежимОтладки" id="29511e6d-a41c-44ee-8fb7-5a987a11b792" configVersion="4b707d879295d54e8b76ab3bd4786b2400000000"/>
+		<Metadata name="SessionParameter.СерверSQL" id="c6462ef2-4fae-45e8-9e11-2fbfc3d9bdb6" configVersion="7a9105724e8eba469b27ddd8867df15700000000"/>
+		<Metadata name="SessionParameter.СерверПриложений" id="97476818-3e35-40e8-b631-24cba8bd7c2d" configVersion="2e6a3a956f32894db952899edcc24ded00000000"/>
+		<Metadata name="Subsystem.НСИИАдминистрирование" id="e406f79d-b9eb-413a-a442-5ef4275d14c1" configVersion="8de3e136a2f4d04a884c71d1cfc88b5200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
