@@ -1,0 +1,11 @@
+
+C:\adm\1C\scripts>﻿@echo off 
+
+C:\adm\1C\scripts>chcp 65001 
+Active code page: 65001
+
+C:\adm\1C\scripts>SET IbName=erpuso2_test 
+
+C:\adm\1C\scripts>SET RepCf=erpuso2 
+
+C:\adm\1C\scripts>"c:\Program Files\1cv8\8.3.22.1709\bin\1cv8.exe" DESIGNER /S "app01\erpuso2_test" /AppAutoCheckVersion  /AppAutoCheckMode /ConfigurationRepositoryN "erpuso2_test" /ConfigurationRepositoryF "erpuso2" /ConfigurationRepositoryF "tcp://app01/цм_ИнструментыРазработчика_cfe" -Extension "ИнструментыРазработчикаTormozit" ConfigurationRepositoryUpdateCfg  -Extension "ИнструментыРазработчикаTormozit" /Out"Add-rdtt-erpuso2_test.log" 

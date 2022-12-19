@@ -1,0 +1,1 @@
+net localgroup Администраторы %1 /add

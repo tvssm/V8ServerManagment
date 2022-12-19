@@ -1,0 +1,1 @@
+"C:\Program Files\1cv8\8.3.22.1709\bin\webinst.exe" -iis -wsdir %1 -dir "C:\inetpub\wwwroot\%1" -connStr "Srvr="app01";Ref="%1"

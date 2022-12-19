@@ -1,0 +1,1 @@
+for /f "usebackq tokens=*" %%a in ("ib.txt") do (call RunIbInBrowser.cmd %%~a >> RunIbInBrowser.log)

@@ -1,0 +1,1 @@
+for /f "usebackq tokens=*" %%a in ("ib.txt") do (call PublicateIbOnIIS.cmd %%~a >> PublicateIbOnIIS-ByList.log)

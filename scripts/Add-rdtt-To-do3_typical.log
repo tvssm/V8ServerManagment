@@ -1,0 +1,11 @@
+
+C:\adm\1C\scripts>﻿@echo off 
+
+C:\adm\1C\scripts>chcp 65001 
+Active code page: 65001
+
+C:\adm\1C\scripts>SET IbName=do3_typical 
+
+C:\adm\1C\scripts>SET RepCf=do3 
+
+C:\adm\1C\scripts>"c:\Program Files\1cv8\8.3.22.1709\bin\1cv8.exe" DESIGNER /S "app01\do3_typical" /AppAutoCheckVersion  /AppAutoCheckMode /ConfigurationRepositoryF "do3" /LoadCfg "c:\Development\cf_cfe\ИнструментыРазработчикаTormozit.cfe" -Extension "ИнструментыРазработчикаTormozit" /ConfigurationRepositoryF "tcp://app01/цм_ИнструментыРазработчика_cfe" -Extension "ИнструментыРазработчикаTormozit" /ConfigurationRepositoryN "do3_typical"" /Out"Add-rdtt-do3_typical.log" 
