@@ -1,0 +1,485 @@
+﻿[Базы ZAPSIBGAZPROM]
+ID=5621f757-5b22-4841-b62e-f94dd4b2681d
+OrderInList=-1
+Folder=/
+OrderInTree=111104
+External=1
+[Общие демо]
+ID=31b8c84e-2047-47af-8fef-2f1fb72fbad0
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM
+OrderInTree=37376
+External=1
+[Основной контур]
+ID=d62ac01b-c8ee-45ae-a583-58e95279772e
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM
+OrderInTree=37376
+External=1
+[1C:Документооборот КОРП 3.0]
+Connect=Srvr="app01";Ref="do3";
+ID=166a7f9b-9cc0-4f2f-bde0-2df6aade6c4b
+OrderInList=81920
+Folder=/Базы ZAPSIBGAZPROM/Основной контур
+OrderInTree=16384
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[1С:Документооборот КОРП 3.0 WEB]
+Connect=ws="http://10.77.2.38/do3";
+ID=cb23083c-2aaf-48c5-af19-8fd9bdaecb72
+OrderInList=163840
+Folder=/Базы ZAPSIBGAZPROM/Основной контур
+OrderInTree=65792
+External=1
+ClientConnectionSpeed=Normal
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[ErpUso2]
+Connect=Srvr="app01";Ref="erpuso2";
+ID=77e2d278-155b-49b4-b9cb-f3293807eddf
+OrderInList=114688
+Folder=/Базы ZAPSIBGAZPROM/Основной контур
+OrderInTree=32768
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[ErpUso2 WEB]
+Connect=ws="http://10.77.2.38/erpuso2";
+ID=d9ade358-8c2e-4986-b449-677699a75e4d
+OrderInList=66048
+Folder=/Базы ZAPSIBGAZPROM/Основной контур
+OrderInTree=49408
+External=1
+ClientConnectionSpeed=Normal
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[ErpUso2 ТЕСТ]
+Connect=Srvr="app01";Ref="erpuso2_test";
+ID=cc0b7606-600f-4676-a3bd-6d8696adb19a
+OrderInList=114688
+Folder=/Базы ZAPSIBGAZPROM/Основной контур
+OrderInTree=32768
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[ErpUso2 ТЕСТ WEB]
+Connect=ws="http://10.77.2.38/erpuso2_test";
+ID=1dab2699-fa1e-4bd1-a959-776c9c8476d3
+OrderInList=66048
+Folder=/Базы ZAPSIBGAZPROM/Основной контур
+OrderInTree=49408
+External=1
+ClientConnectionSpeed=Normal
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[ERP.Управление холдингом (демо)]
+Connect=Srvr="app01";Ref="erpuh";
+ID=134a8fce-2585-4d3c-9db6-d2323fb02046
+OrderInList=147456
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=33280
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[Пользовательские]
+ID=0aaae993-5156-4115-8354-2561e2cec828
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM
+OrderInTree=4608
+External=1
+[Kalashnikov]
+ID=bba07120-0554-4a86-a3f1-ae8bfc5ca67e
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские
+OrderInTree=448
+External=1
+[Kumeyko]
+ID=b1863ff0-b283-40dc-bdd1-768ce0b9e6c6
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские
+OrderInTree=448
+External=1
+[Ryasov]
+ID=0d35ee2d-8071-49d9-9e43-f424c69ef774
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские
+OrderInTree=448
+External=1
+[Zhilyaev]
+ID=79bd5d3b-2cf5-4869-9e2e-306fa2b3b8e5
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские
+OrderInTree=448
+External=1
+[ErpUso2_Kalashnikov]
+Connect=Srvr="app01";Ref="erpuso2_kalashnikov";
+ID=b2d54bd4-624b-44d1-811e-123c5b4e13e4
+OrderInList=212992
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Kalashnikov
+OrderInTree=12288
+External=1
+ClientConnectionSpeed=Normal
+App=ThinClient
+WA=1
+Version=8.3
+[ErpUso2_Kalashnikov WEB]
+Connect=ws="http://10.77.2.38/erpuso2_kalashnikov";
+ID=5bd19914-e60a-4f56-84ae-65015fed6830
+OrderInList=196608
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Kalashnikov
+OrderInTree=16384
+External=1
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[ErpUso2_Kumeyko]
+Connect=Srvr="app01";Ref="erpuso2_kumeyko";
+ID=ec78b4ed-5378-4082-b213-040442dbbf6e
+OrderInList=212992
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Kumeyko
+OrderInTree=12288
+External=1
+ClientConnectionSpeed=Normal
+App=ThinClient
+WA=1
+Version=8.3
+[ErpUso2_Kumeyko WEB]
+Connect=ws="http://10.77.2.38/erpuso2_kumeyko";
+ID=c3f9ae3b-658e-4e62-bf27-f9b55f7c940e
+OrderInList=196608
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Kumeyko
+OrderInTree=16384
+External=1
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[ErpUso2_Ryasov]
+Connect=Srvr="app01";Ref="erpuso2_ryasov";
+ID=2968e11a-24d7-4c89-9c4a-b85659caddc8
+OrderInList=212992
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Ryasov
+OrderInTree=12288
+External=1
+ClientConnectionSpeed=Normal
+App=ThinClient
+WA=1
+Version=8.3
+[ErpUso2_Ryasov WEB]
+Connect=ws="http://10.77.2.38/erpuso2_ryasov";
+ID=7179eca8-80b5-4926-9926-8509736f7a92
+OrderInList=196608
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Ryasov
+OrderInTree=16384
+External=1
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[Spesivceva]
+ID=40d912d0-122d-4b7d-bf98-9e57ed6d6283
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские
+OrderInTree=640
+External=1
+[ErpUso2_Spesivceva]
+Connect=Srvr="app01";Ref="erpuso2_spesivceva";
+ID=c855c09f-60ed-402c-9266-68bba59a4643
+OrderInList=229376
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Spesivceva
+OrderInTree=16640
+External=1
+ClientConnectionSpeed=Normal
+App=ThinClient
+WA=1
+Version=8.3
+[ErpUso2_Spesivceva WEB]
+Connect=ws="http://10.77.2.38/erpuso2_spesivceva";
+ID=00e1bc9a-f1c7-4b52-a24a-eed23b4ea3b8
+OrderInList=245760
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Spesivceva
+OrderInTree=16896
+External=1
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[БИТ.Строительство]
+Connect=Srvr="app01";Ref="bsbf";
+ID=ed225d40-aded-4498-8c00-ec58ab5f9c37
+OrderInList=16448
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=49408
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[БИТ.Строительство WEB]
+Connect=ws="http://10.77.2.38/bsbf";
+ID=6f3ca017-9ceb-4de3-add6-f01ba453bcdd
+OrderInList=16480
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=49408
+External=0
+ClientConnectionSpeed=Normal
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+[BIT:FinansERP]
+Connect=Srvr="app01";Ref="finanserp";
+ID=fffe73f4-c66f-4923-9d95-4a7c917c68c6
+OrderInList=90880
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=176640
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[BIT:FinansERP WEB]
+Connect=ws="http://10.77.2.38/finanserp";
+ID=8d9bceed-dfab-441d-9608-e99376e03891
+OrderInList=53466.6666666666
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=193024
+External=0
+UseProxy=0
+App=Auto
+WA=1
+Version=8.3
+WSA=1
+AppArch=x86_64
+[ErpUso2_Zhilyaev]
+Connect=Srvr="app01";Ref="erpuso2_zhilyaev";
+ID=f26de43e-d986-4a53-ae97-6614a1bbf2ab
+OrderInList=90396.4444444444
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Zhilyaev
+OrderInTree=176640
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[ErpUso2_Zhilyaev WEB]
+Connect=ws="http://10.77.2.38/erpuso2_zhilyaev";
+ID=6761dfcd-8751-442e-a8fb-8c6bff44ed4c
+OrderInList=176270.222222222
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Zhilyaev
+OrderInTree=-1
+External=0
+UseProxy=0
+App=Auto
+WA=1
+Version=8.3
+WSA=1
+[ErpUso2 ДЕМО]
+Connect=Srvr="app01";Ref="erpuso2_demo";
+ID=6c2d4f4d-d319-4bb6-b3f5-246beae1aaa7
+OrderInList=114688
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=32768
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[ErpUso2 ДЕМО WEB]
+Connect=ws="http://10.77.2.38/erpuso2_demo";
+ID=ff61bd01-1825-4e12-8695-2a198faeb391
+OrderInList=66048
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=49408
+External=1
+ClientConnectionSpeed=Normal
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[1C:Документооборот КОРП 3.0 ДЕМО]
+Connect=Srvr="app01";Ref="do3_demo";
+ID=c04b54e8-4eda-483c-8183-c5f0a4787ceb
+OrderInList=81920
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=16384
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[1С:Документооборот КОРП 3.0 ДЕМО WEB]
+Connect=ws="http://10.77.2.38/do3_demo";
+ID=e06decfb-8f84-4c2c-8198-15e950d71ed9
+OrderInList=163840
+Folder=/Базы ZAPSIBGAZPROM/Общие демо
+OrderInTree=65792
+External=1
+ClientConnectionSpeed=Normal
+UseProxy=0
+App=WebClient
+WA=1
+Version=8.3
+WSA=1
+[Пример работы разработки]
+ID=b22fc9bc-e70c-4f1b-adf8-995f41088fa9
+OrderInList=-1
+Folder=/
+OrderInTree=127488
+External=1
+[TestBase]
+Connect=File="C:\Base\TestBase";
+ID=56d55741-e153-4cd7-b918-589dfa068fbf
+OrderInList=262144
+Folder=/Пример работы разработки
+OrderInTree=256
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[TestBase_test]
+Connect=File="C:\Base\TestBase_test";
+ID=522d87b4-2df6-42be-a95a-f86b0d1c826f
+OrderInList=-1
+Folder=/Пример работы разработки
+OrderInTree=384
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[TestBase_kalashnikov]
+Connect=File="C:\Base\TestBase_kalashnikov";
+ID=3156eef4-a1a4-4163-a637-6c68d77e640a
+OrderInList=278528
+Folder=/Пример работы разработки
+OrderInTree=512
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[TestBase_zakharov]
+Connect=File="C:\Base\TestBase_zakharov";
+ID=e7fb4b1d-6788-42e2-a6cd-3c581c1db09f
+OrderInList=294912
+Folder=/Пример работы разработки
+OrderInTree=768
+External=1
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[Тюрюков]
+ID=36719cc2-fa86-45fe-b377-9fb98fcc7c4b
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские
+OrderInTree=4650.66666666667
+External=0
+[ERP УСО Тюрюков]
+Connect=Srvr="app01";Ref="erpuso2_tyuryukov";
+ID=918cd6eb-ad2f-4475-a38a-8a1e00e543d1
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Тюрюков
+OrderInTree=256
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[ДО3 Тюрюков]
+Connect=Srvr="app01";Ref="do3_tyuryukov";
+ID=01096c7f-3553-4a51-8bf3-53ff425f9c57
+OrderInList=-1
+Folder=/Базы ZAPSIBGAZPROM/Пользовательские/Тюрюков
+OrderInTree=512
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+[Служебные]
+ID=4d8f2c23-d1e1-44c7-b4d0-ce7415534bb9
+OrderInList=-1
+Folder=/
+OrderInTree=128000
+External=0
+[Тест Гилева]
+Connect=Srvr="app01";Ref="gilv_tpc_g1c_83";
+ID=0c09b0b5-ab79-4a94-b628-ad521d0d93f1
+OrderInList=376832
+Folder=/Служебные
+OrderInTree=16384
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+DefaultApp=ThickClient
+AppArch=x86_64
+[Конвертация данных 3.1]
+Connect=Srvr="app01";Ref="convdata3";
+ID=a3f8302e-fd1b-42db-a539-38f9cd9acef2
+OrderInList=393216
+Folder=/Служебные
+OrderInTree=66373.818181818
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[Конвертация данных 2.1 (КД2)]
+Connect=Srvr="app01";Ref="dataconv2";
+ID=fb1ebc15-fefd-4460-a4b0-5732db7a08ac
+OrderInList=311296
+Folder=/Служебные
+OrderInTree=66048
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AppArch=x86_64
+[Пустая база]
+Connect=File="C:\Development\FilesDB\ClearDB";
+ID=83e078a2-ee99-4f66-8dbd-688e1620dea0
+OrderInList=458752
+Folder=/Служебные
+OrderInTree=41378.909090909
+External=0
+ClientConnectionSpeed=Normal
+App=Auto
+WA=1
+Version=8.3
+AditionalParameters=/RunModeOrdinaryApplication
